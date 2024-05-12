@@ -1,10 +1,10 @@
 
 # Maintainer: Mequam <blue9ja@gmail.com>
 pkgname="samgob"
-pkgver=1.2.0
+pkgver=1.2.1
 pkgrel=0
 pkgdesc="a dice rolling application for all the samon goblins of the world"
-arch=("x86_64" "armv7h")
+arch=('any')
 url="https://github.com/Mequam/samgob"
 makedepends=("python-pip")
 source=("https://raw.githubusercontent.com/Mequam/samgob_cli/master/main.py")
